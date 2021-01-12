@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+public/favicon.ico
+src/assets/logo.png
+src/components/HelloWorld.vue
+*.vue
